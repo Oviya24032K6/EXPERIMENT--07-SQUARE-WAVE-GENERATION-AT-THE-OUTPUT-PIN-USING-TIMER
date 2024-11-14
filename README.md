@@ -2,8 +2,13 @@
 
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
-### Name : OVIYA P
-### Register Number : 212223110033
+
+NAME : OVIYA P
+
+REGISTER NUMBER: 212223110033
+
+DATE:06/11/2024
+
 ### Components required:
 STM32 CUBE IDE, Proteus 8 simulator .
 
