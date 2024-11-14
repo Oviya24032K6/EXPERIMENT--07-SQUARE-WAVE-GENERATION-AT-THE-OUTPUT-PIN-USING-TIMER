@@ -1,4 +1,4 @@
-# EXPERIMENT--06-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
+# EXPERIMENT--05-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
 
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
@@ -7,7 +7,8 @@ NAME : OVIYA P
 
 REGISTER NUMBER: 212223110033
 
-DATE:06/11/2024
+DATE:09/10/2024
+
 
 ### Components required:
 STM32 CUBE IDE, Proteus 8 simulator .
